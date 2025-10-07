@@ -19,7 +19,7 @@ I enjoy working across the full stack — from crafting responsive front-end int
 ### 📫 Get in touch
 
 * GitHub: [github.com/BautistaAlfaro](https://github.com/BautistaAlfaro)
-* LinkedIn: [linkedin.com/in/bautistaalfaro](https://linkedin.com/in/bautistaalfaro)
+* LinkedIn: [linkedin.com/in/bautistaalfaro](https://linkedin.com/in/BautistaAlfaro)
 
 >[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BautistaAlfaro)](https://git.io/streak-stats)
 
